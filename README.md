@@ -5,9 +5,9 @@
 
 - 💬 Ask me about **anything actually, love birds...**
 
-- 📫 How to reach me **luis.cap.queiros@gmail.com**
+- 📫 Reach me here: **luis.cap.queiros@gmail.com**
 
-- ⚡ Fun fact **Having twins during a pandemic? :white_check_mark:hec**
+- ⚡ Fun fact **Having twins during a pandemic? :white_check_mark:**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
