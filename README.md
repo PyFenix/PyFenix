@@ -1,17 +1,17 @@
 <h1 align="center">Hello, I'm Luis</h1>
-<h3 align="center">A born again coder with data science as a goal.</h3>
+<h3 align="center">🐦</h3>
 
 - 🌱 I’m currently learning **everything i can about python and ds.**
 
-- 💬 Ask me about **anything actually, love birds...**
+- 💬 Ask me about **anything actually, though my main is life sciences.**
 
 - 📫 How to reach me **luis.cap.queiros@gmail.com**
 
-- ⚡ Fun fact **Having twins during a pandemic? :white_check_mark:hec**
+- ⚡ Fun fact **Having twins during a pandemic? :white_check_mark:check**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@luiscqueiros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@luiscqueiros" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/luis-queiros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis-queiros" height="30" width="40" /></a>
 <a href="https://kaggle.com/luisqueiros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="luisqueiros" height="30" width="40" /></a>
 </p>
