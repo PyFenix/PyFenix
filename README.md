@@ -1,13 +1,21 @@
 <h1 align="center">Hello, I'm Luis</h1>
 <h3 align="center">🐦</h3>
 
-- 🌱 I’m currently learning **everything i can about python and ds.**
+## ABOUT ME
 
-- 💬 Ask me about **anything actually, though my main is life sciences.**
+Hello! I'm Luís Queirós, a Data Scientist and Machine Learning Engineer who loves turning complex data into actionable insights. With a rich background in life sciences and healthcare, I blend technical prowess with a passion for nature conservation and environmental impact. When I'm not coding, you'll find me hiking, birdwatching, or being a full-on super dad  with my twin kids.
 
-- 📫 How to reach me **luis.cap.queiros@gmail.com**
+- 🌱 I’m currently learning **about agents, MLOPS and Rust.**
+
+
+
+- 📫 How to reach me **[luis.cap.queiros@gmail.com](mailto:luis.cap.queiros@gmail.com)**
 
 - ⚡ Fun fact **Having twins during a pandemic? :white_check_mark:check**
+
+- LinkedIn: [https://www.linkedin.com/in/luis-queiros](https://www.linkedin.com/in/luis-queiros)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
