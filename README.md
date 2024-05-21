@@ -59,4 +59,10 @@ In a past life i was a hardcore birder, quite the change, right?
   <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> 
   </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
+  </a>
+  <a href="https://lightgbm.readthedocs.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://lightgbm.readthedocs.io/en/latest/_images/LightGBM_logo_black_text.svg" alt="lightgbm" width="40" height="40"/> 
+  </a>
 </p>
